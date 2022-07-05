@@ -44,7 +44,4 @@ public class FireworkFrenzyConfig implements ConfigData {
 
 	@Comment("Should Infinity work on Firework Rockets?")
 	public boolean infinityAffectsRockets = true;
-
-	@Comment("Disable firework random lifetime and velocity")
-	public boolean disableFireworkRandomness = false;
 }
